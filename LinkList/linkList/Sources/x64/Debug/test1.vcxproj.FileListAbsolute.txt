@@ -1,0 +1,2 @@
+E:\test1\x64\Debug\test1.exe
+E:\week1\LinkList\linkList\Sources\x64\Debug\test1.exe
