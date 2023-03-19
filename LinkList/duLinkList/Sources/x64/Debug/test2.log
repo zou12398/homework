@@ -1,3 +1,0 @@
-﻿  duLinkedListtest.c
-E:\test2\duLinkedListtest.c(25,15): warning C4047: “=”:“DuLNode *”与“DuLinkedList *”的间接级别不同
-  test2.vcxproj -> E:\test2\x64\Debug\test2.exe
