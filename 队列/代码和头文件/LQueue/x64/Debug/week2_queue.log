@@ -1,0 +1,7 @@
+﻿  LQueuetest.c
+E:\week2_queue\LQueue.h(132,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\week2_queue\LQueue.h(221,21): warning C4020: “foo”: 实参太多
+E:\week2_queue\LQueuetest.c(130,9): warning C4113: “void (__cdecl *)(void *,char)”和“void (__cdecl *)(void *)”的参数列表不同
+E:\week2_queue\LQueuetest.c(144,21): warning C4030: 第一个形参表比第二个长
+E:\week2_queue\LQueuetest.c(181,3): warning C4013: “gets”未定义；假设外部返回 int
+  week2_queue.vcxproj -> E:\week2_queue\x64\Debug\week2_queue.exe
