@@ -1,2 +1,0 @@
-E:\week2_stack\x64\Debug\week2_stack.exe
-E:\2023QG工作室第二周训练营\QG工作室2023训练营第二周\栈以及栈的应用\栈\代码和头文件\LinkStack\x64\Debug\week2_stack.exe
