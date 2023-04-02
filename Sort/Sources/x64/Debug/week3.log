@@ -1,0 +1,12 @@
+﻿  test.c
+E:\week3\sort.h(309,3): warning C4033: “search”必须返回值
+E:\week3\sort.h(315,8): warning C4013: “SearchPartition”未定义；假设外部返回 int
+E:\week3\test.c(15,2): warning C4013: “menu”未定义；假设外部返回 int
+E:\week3\test.c(60,4): warning C4013: “testmenu”未定义；假设外部返回 int
+E:\week3\test.c(114,4): warning C4033: “menu”必须返回值
+E:\week3\test.c(365,5): warning C4013: “gets”未定义；假设外部返回 int
+E:\week3\test.c(518,4): warning C4033: “testmenu”必须返回值
+E:\week3\sort.h(342): warning C4715: “search”: 不是所有的控件路径都返回值
+E:\week3\test.c(119): warning C4716: “menu”: 必须返回一个值
+E:\week3\test.c(524): warning C4716: “testmenu”: 必须返回一个值
+  week3.vcxproj -> E:\week3\x64\Debug\week3.exe
