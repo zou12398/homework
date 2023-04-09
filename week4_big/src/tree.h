@@ -122,7 +122,7 @@ Status Delete(BinarySortTreePtr T, int data)
 		{
 			p = p->right;
 		}
-		if (p->data == data)
+		if (p != NULL&&p->data == data)
 			break;
 	}
 
