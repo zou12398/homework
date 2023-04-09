@@ -1,0 +1,3 @@
+﻿  treetest.c
+E:\tree\tree.h(451): warning C4715: “Levelorder”: 不是所有的控件路径都返回值
+  tree.vcxproj -> E:\tree\x64\Debug\tree.exe
